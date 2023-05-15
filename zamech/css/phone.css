@@ -1,0 +1,164 @@
+﻿#nawi1 {
+    display: none;
+}
+
+#nawi2 {
+    display: none;
+}
+
+.burger {
+    display: block;
+}
+
+/*STRONA TYTUŁOWA---------------------------------------------------------*/
+
+#sekcja_tytulowa img {
+    max-width: 400px;
+}
+
+
+#sekcja_tytulowa .tytul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 5vw;
+}
+
+#sekcja_tytulowa .skip .material-symbols-outlined {
+    font-size: 6rem;
+}
+
+#sekcja_tytulowa a {
+    display: none;
+}
+
+/*SEKCJA O FIRMIE---------------------------------------------------------*/
+
+
+#sekcja-o_firmie {
+    flex-direction: row;
+    
+    height: 5vh;
+}
+
+#sekcja-o_firmie .ustawienie_dla_sekcji {
+    gap: 1vw;
+}
+
+#sekcja-o_firmie h1 {
+    flex-wrap: wrap;
+}
+
+
+#sekcja-o_firmie .kolumna1 {
+    gap: 1vw;
+}
+
+#sekcja-o_firmie .opis, .kolumna2, .kolumna1 {
+    align-items: center;
+    width: 90vw;
+}
+
+
+#sekcja-o_firmie .slider {
+    box-shadow: none;
+}
+
+#sekcja-o_firmie .kolumna2 {
+    align-content: center
+}
+
+
+
+
+
+#sekcja-o_firmie a {
+    display: none;
+}
+
+
+#sekcja-o_firmie .opis {
+    font-size: 1.2em;
+}
+
+#sekcja-o_firmie h1 {
+    font-size: 1.5em;
+}
+
+
+/*SEKCJA OFERTOWA---------------------------------------------------------*/
+
+#sekcja_ofertowa .ustawienie_dla_sekcji {
+    flex-wrap: wrap;
+}
+
+#sekcja_ofertowa .panel_ofertowy .oferty p {
+    font-size: 0.8em;
+    flex-direction: column;
+    line-height: 1em;
+}
+
+
+
+#sekcja_ofertowa h1 {
+    padding-top: 10vh;
+    padding-bottom: 2vh;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#sekcja_ofertowa .panel_ofertowy .oferta .material-symbols-outlined {
+    font-size: 2em;
+}
+
+#sekcja_ofertowa .panel_ofertowy .oferta {
+}
+
+#sekcja_ofertowa .oferta p {
+    padding-top: 0vh;
+}
+
+#sekcja_ofertowa a {
+    display: none;
+}
+
+#sekcja_ofertowa video {
+    width: 40vh;
+}
+
+#sekcja_ofertowa .ustawienie_dla_sekcji .panel_ofertowy {
+    padding-top: 2vh;
+    
+}
+
+#sekcja_ofertowa .ustawienie_dla_sekcji .panel_ofertowy .oferty {
+    font-size: 1.5em;
+    gap: 3vh;
+}
+
+/*SZTOPKA---------------------------------------------------------*/
+
+#sztopka .kontakty {
+    font-size: 1.1em;
+    text-align: center;
+    flex-direction: column;
+}
+
+
+#sztopka iframe {
+    padding: 5px;
+    height: 27vh;
+    width: 47vh;
+    background-color: black;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
