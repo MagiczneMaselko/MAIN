@@ -35,7 +35,7 @@
     <br>
     <div id="cookies-message-container">  <!-- naprawic sciezke z ciaskammi bo tez sie popsulo-->
       <div id="cookies-message">
-          Ta strona używa ciasteczek.... I chuj CI do tego jak nieakceptujesz to <b>wypierdalaj</b> : - D
+          Ta strona używa ciasteczek.... : - D
           <a onclick="WHCloseCookiesWindow();" id="accept-cookies-checkbox">OK OK</a>
       </div>
     </div>
